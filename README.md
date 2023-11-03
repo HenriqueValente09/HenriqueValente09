@@ -1,4 +1,4 @@
-                                                      ###My name is Pedro Valente. Full stack developer.
+###                                                      My name is Pedro Valente. Full stack developer.
 
 Skills:
 
