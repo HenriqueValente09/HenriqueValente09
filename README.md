@@ -1,7 +1,7 @@
 ###                                                      My name is Pedro Valente. Full stack developer.
 
 Skills:
-<img src="[{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueValente09&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
