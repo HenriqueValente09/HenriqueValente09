@@ -1,10 +1,10 @@
 ###                                                      My name is Pedro Valente. Full stack developer.
 
 Skills:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueValente09&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 <img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueValente09&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HenriqueValente09/HenriqueValente09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
