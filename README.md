@@ -1,7 +1,7 @@
 ###                                                      My name is Pedro Valente. Full stack developer.
 
 Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,express,nest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ts,express,nest,react,next,java,spring,php,laravel,docker,aws,mysql,postgres,mongodb,redis,prisma,graphql,webpack,cloudflare,electron,discordjs)](https://skillicons.dev)
 
 
 
